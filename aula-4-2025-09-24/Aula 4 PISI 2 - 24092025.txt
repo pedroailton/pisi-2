@@ -1,0 +1,23 @@
+-------------------------
+Algoritmos de Busca
+-------------------------
+
+Data:24/09/2025
+Professor: Cícero Garrozi
+Disciplina: Projeto Interdiciplinar para Sistemas de Informação
+
+-------------------------
+Busca Linear
+-------------------------
+* Não dependa da segurança dos upgrades, uma vez que o crescimento de uma empresa pode escalar exponencialmente, e você deve estar preparado para isso
+
+A ordem é de O(n)
+
+Parece uma boa taxa de cresciemnto de tempo de execução, mas buscas ocorrem várias vezes, o que torna conveniente que haja um método com uma taxa de crescimento menor.
+
+Os loops têm else (Acontecer algo caso o loop rode inteiramente sem nenhuma interrupção normal)
+
+-------------------------
+Busca Binária
+-------------------------
+
