@@ -1,0 +1,26 @@
+Aluno: Pedro Ailton Alves da Cunha
+Disciplina: Projeto Interdisciplinar para Sistemas de Informação 2
+Professor: Cícero Garrozi
+
+-------------------
+
+ESTRUTURAS DE DADOS
+
+-------------------
+
+- Listas (Python não usa listas, mas vertores/arrays)
+- Filas
+- Pilhas
+
+* Função .pop() tira e pode guardar o valor
+* Função .remove() apaga um elemento determinado
+
+-------------------
+
+. Para o exercício da sala, vamos utilizar a lista como uma pilha, utilizando apenas as funções .append() e .pop()
+
+. Em cada loop, deixaremos um marcador junto da quantidade de vezes que o loop vai rodar no topo da pilha
+
+. Na pilha só haverão os custos, a palavra "loop" e seu multiplicador
+
+-------------------
